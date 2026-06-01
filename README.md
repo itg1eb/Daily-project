@@ -1,3 +1,2 @@
 # Daily-project
-a new mini-project every day
 Hello everyone! I'm Gleb Laskarzhevsky, a 17-year-old high school student who is passionate about programming. This repository will contain all of my daily mini-projects, where I will apply my knowledge. At first, it will be simple, but I will gradually increase the complexity of my programs and code. I hope that this will showcase my enthusiasm and love for programming. Thank you!
