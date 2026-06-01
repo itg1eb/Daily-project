@@ -1,1 +1,1 @@
-
+I decided to make an easy project on the first day, and a calculator immediately came to my mind, so it's here. I think this is not the last version, and there will definitely be an update in the next few days
